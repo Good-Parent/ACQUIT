@@ -1,0 +1,74 @@
+.topdiv {
+    text-align: center;
+    padding: 25px 0px 30px;
+    font-size: 20px;
+    font-family: lato;
+    background-color: #fff;
+    border-bottom: 2px solid;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  background-color: black;
+  opacity: 30%;
+  color: white;
+  padding: 20px 35px;
+  font-family: lato;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  width: 200px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+body {
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none; 
+    color:  #000;
+}
+
+h3 {
+    text-align: center;
+    font-family: lato;
+    font-size: 35px;
+}
+
+.content {
+    padding: 30px;
+    border: 3px solid;
+    border-radius: 15px;
+    font-family: lato;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.button {
+    background-color: #009ab4;
+    padding: 15px 30px;
+    font-family: lato;
+    font-size: 25px;
+    width: 300px;
+    cursor: pointer;
+    border: 2px solid;
+    border-radius: 3px;
+}
+
+.nasa_logo {
+    width: 150px;
+    float: left;
+    top: 5px;
+    left: -10px;
+    position: absolute;
+    cursor: pointer;
+}
